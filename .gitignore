@@ -1,0 +1,39 @@
+# File is synced from zeronet-js repo
+
+# Configs, etc.
+*.pem
+config.json
+
+# NodeJS
+node_modules
+coverage
+.nyc_output
+package-lock.json
+
+# aegir
+dist
+docs
+
+# pkg
+sauco-linux*
+sauco-macos*
+sauco-win*
+.pkg
+
+# Other garbage
+*.bak
+*.log
+tmp
+/data
+.sauco
+
+# Python
+*.pyc
+
+# snap
+parts
+prime
+stage
+*.tar.bz2
+*.snap
+snap/.snapcraft
