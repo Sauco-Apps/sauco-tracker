@@ -48,13 +48,6 @@
     "zeronet-fileserver": "0.0.7",
     "zeronet-swarm": "0.2.0"
   },
-  "devDependencies": {
-    "electron-webrtc": "^0.3.0",
-    "magnet-uri": "^5.1.7",
-    "standard": "*",
-    "tape": "^4.8.0",
-    "webtorrent-fixtures": "^1.5.1"
-  },
   "keywords": [
     "bittorrent",
     "p2p",
